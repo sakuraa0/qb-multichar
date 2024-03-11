@@ -1,2 +1,3 @@
-# qb-multichar
- qb-multichar css edited
+# qb-multicharacter
+
+Changed up some css of the multicharacter
