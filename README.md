@@ -1,4 +1,4 @@
-# qb-multicharacter
+# qb-multichar
 
 Changed up some css of the multicharacter
 
